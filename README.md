@@ -3,7 +3,7 @@
 |[**原地址**](https://github.com/mooseIre/update_miui_ota)|
 |[MIUI官方ROM仓库](https://roms.miuier.com/)|
  ---- 
-|机型|开发版|稳定版|
+|机型|开发版|稳定版|  |机型|开发版|稳定版|  
 | :----: | :----: | :----: |
 |Redmi K40| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K40.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K40.md)|
 |Redmi K40 Pro| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K40%20Pro.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K40%20Pro.md)|

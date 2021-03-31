@@ -49,3 +49,4 @@
 |小米10S| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米10S.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米10S.md)|
  ---- 
 此系统仅供个人学习、研究之用,请勿用于商业用途。
+[原地址](https://github.com/mooseIre/update_miui_ota)
